@@ -42,7 +42,6 @@ Notes for this Project:
         NX Disabled --> shellcode
         PARTIAL/NO RELRO --> libc exploit
 
-
     General Guideline for doing the speedruns:
         1. r2 executable
         2. run code exploit.py (to create the python script that we are going to use to solve the speedrun) (this will automatically open up a new file exploit.py in VSCode)
